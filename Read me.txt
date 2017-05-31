@@ -1,0 +1,6 @@
+Data attached from neo4j in json and other formats in this folder
+
+User to login if you don't want to create one 
+
+Username: Hussein
+Password: 123
